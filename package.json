@@ -1,0 +1,15 @@
+{
+  "name": "inquirer-unterminated",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Darren Schnare <schnare.d@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
