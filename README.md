@@ -15,3 +15,5 @@ process should terminate. However, the process never terminates. The cause seems
 to be linked to the combination of having the `when` option set to `false` for
 each question *and* having a time consuming task occurr between calling multiple
 `inquirer#prompt` calls.
+
+See [unterminated-process-test.js](./unterminated-process-test.js) for details.
